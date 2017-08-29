@@ -1,0 +1,21 @@
+bin/consoleMonitor
+bin/consoleUtil
+bin/lscon
+bin/usecon
+lib/ConsoleClient.pm
+inc/Module/Install.pm
+inc/Module/Install/Base.pm
+inc/Module/Install/Can.pm
+inc/Module/Install/Fetch.pm
+inc/Module/Install/Makefile.pm
+inc/Module/Install/Metadata.pm
+inc/Module/Install/Win32.pm
+inc/Module/Install/WriteAll.pm
+Makefile.PL
+install.sh
+META.yml
+VERSION
+INSTALL
+README
+MANIFEST			This list of files
+MANIFEST.SKIP
